@@ -1,4 +1,4 @@
-# ISLR_Python
+# ISLP_Python
 Solutions to "An Introduction to Statistical Learning" in Python
 
 Colab (R): https://colab.research.google.com/drive/12oxkUgL_uOPxt2n5_TVxqPiWi5AO0hSB#scrollTo=pJqu_6O36CKw
